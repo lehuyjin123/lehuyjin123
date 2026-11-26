@@ -11,3 +11,11 @@ I'm an Automation and Intelligent Control student at UEH 3i Institute of Technol
 | [Vietnamese Food Recognizer](https://github.com/lehuyjin123/VietNamFoodRegconizer) | Kotlin Android checkout prototype using YOLOv8 and TensorFlow Lite to recognize Vietnamese dishes. |
 | [GPBL Hanoi 2025](https://github.com/lehuyjin123/GPBL-Iot-LLM--Hanoi-2025) | Team hospital rover prototype that received the Professors’ Choice Award. |
 | [MathReasoner](https://github.com/lehuyjin123/AI-for-high-level-Math-MathReasoner-) | Architecture proposal for combining language models, symbolic computation, and answer verification. |
+
+## Coursework and experiments
+
+| Project | Focus |
+| --- | --- |
+| [OpenCV Conveyor Inspection](https://github.com/lehuyjin123/opencv-conveyor-inspection) | Part tracking and PASS/FAIL inspection using Python and OpenCV. |
+| [Peltier System Identification](https://github.com/lehuyjin123/peltier-system-identification) | MATLAB and Simulink modeling and identification for a dual-Peltier water cooler. |
+| [Home Credit ROC-AUC Pipeline](https://github.com/lehuyjin123/home-credit-auc-pipeline) | Tabular feature engineering, cross-validation, and gradient-boosted model blending. |
