@@ -19,3 +19,7 @@ I'm an Automation and Intelligent Control student at UEH 3i Institute of Technol
 | [OpenCV Conveyor Inspection](https://github.com/lehuyjin123/opencv-conveyor-inspection) | Part tracking and PASS/FAIL inspection using Python and OpenCV. |
 | [Peltier System Identification](https://github.com/lehuyjin123/peltier-system-identification) | MATLAB and Simulink modeling and identification for a dual-Peltier water cooler. |
 | [Home Credit ROC-AUC Pipeline](https://github.com/lehuyjin123/home-credit-auc-pipeline) | Tabular feature engineering, cross-validation, and gradient-boosted model blending. |
+| [Arduino Dancing Robot](https://github.com/lehuyjin123/arduino-dancing-robot) | Standalone Arduino choreography, servo control, and LED patterns. |
+| [SCARA Vision Sorting](https://github.com/lehuyjin123/scara-vision-sorting) | Camera inspection, Arduino firmware, and Simulink for a SCARA system. |
+| [Fuzzy and Neural Control](https://github.com/lehuyjin123/fuzzy-neural-control) | Simulink fuzzy PID experiments and a PyTorch controller exported to ONNX. |
+| [Robotic Fish Dynamics](https://github.com/lehuyjin123/robotic-fish-dynamics) | MATLAB multi-link dynamics and mechanical CAD. |
