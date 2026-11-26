@@ -1,0 +1,13 @@
+# Huyhung0909
+
+I'm an Automation and Intelligent Control student at UEH 3i Institute of Technology. I build robotics and embedded systems projects and explore applied AI and simulation.
+
+## Selected projects
+
+| Project | What I worked on |
+| --- | --- |
+| [F450 Quadcopter](https://github.com/lehuyjin123/F450-quadcopter-drone) | Custom PCB, STM32 flight control, and ESP32-based phone control for a self-balancing hover prototype. |
+| [12-Servo Quadruped](https://github.com/lehuyjin123/Quadruple-robot-Dog---12-servos) | Python and Arduino robot control with gait planning, inverse kinematics, and servo calibration. |
+| [Vietnamese Food Recognizer](https://github.com/lehuyjin123/VietNamFoodRegconizer) | Kotlin Android checkout prototype using YOLOv8 and TensorFlow Lite to recognize Vietnamese dishes. |
+| [GPBL Hanoi 2025](https://github.com/lehuyjin123/GPBL-Iot-LLM--Hanoi-2025) | Team hospital rover prototype that received the Professors’ Choice Award. |
+| [MathReasoner](https://github.com/lehuyjin123/AI-for-high-level-Math-MathReasoner-) | Architecture proposal for combining language models, symbolic computation, and answer verification. |
